@@ -2,8 +2,9 @@
   "name": "tscd",
   "version": "1.0.0",
   "description": "tsc debug",
-  "main": "index.ts",
+  "main": "src/index.ts",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
